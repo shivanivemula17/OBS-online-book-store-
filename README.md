@@ -28,7 +28,7 @@ Hosting: Deployed on a suitable hosting platform for reliable service.
 <img src="screenshots/about us.jpg" name="home page"><br>
 
 <h1>Signup</h1><br>
-<img src="screenshots/home.jpg" name="home page"><br>
+<img src="screenshots/signup.jpg" name="home page"><br>
 
 <h1>Login</h1><br>
 <img src="screenshots/home.jpg" name="home page"><br>
