@@ -21,4 +21,14 @@ Authentication: Django's built-in authentication system.
 Payment Gateway: Integration with Stripe/PayPal for handling payments.
 Hosting: Deployed on a suitable hosting platform for reliable service.
 
+<h1>Home</h1><br>
+<img src="screenshots/home.jpg" name="home page"><br>
 
+<h1>About Us</h1><br>
+<img src="screenshots/home.jpg" name="home page"><br>
+
+<h1>Signup</h1><br>
+<img src="screenshots/home.jpg" name="home page"><br>
+
+<h1>Login</h1><br>
+<img src="screenshots/home.jpg" name="home page"><br>
